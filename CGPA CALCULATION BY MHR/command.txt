@@ -1,0 +1,1 @@
+g++ main.cpp win.cpp grades.cpp cgpa.cpp filemanager.cpp cgpausers.cpp cstudent.cpp cfaculty.cpp cadmin.cpp sysm.cpp -o cgpa
